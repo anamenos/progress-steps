@@ -77,7 +77,7 @@ body {
 }
 
 .btn {
-  background-color: var(--line-border-fil);
+  background-color: var(--line-border-fill);
   color: var(--line-border-empty);
   padding: 7px 15px;
   border-radius: 5px;
